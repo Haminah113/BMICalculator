@@ -1,3 +1,3 @@
 # BMICalculator
 
-This is a simple BMI Calcultor.
+This is a simple BMI Calculator.
